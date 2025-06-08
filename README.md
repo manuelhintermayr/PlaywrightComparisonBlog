@@ -1,6 +1,6 @@
 # PlaywrightComparisonBlog
 
-This repository contains examples of the same test suite implemented in multiple programming languages using Playwright. Each variant demonstrates how to achieve the same functionality using Playwright in different languages. This repository was created for a [blog](https://manuelhintermayr.com) that compares these technologies.
+This repository contains examples of the same test suite implemented in multiple programming languages using Playwright. Each variant demonstrates how to achieve the same functionality using Playwright in different languages. This repository was once created for a blog that compares these technologies.
 
 ## Table of Contents
 - [Test Example](#test-example)
